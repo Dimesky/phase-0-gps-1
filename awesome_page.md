@@ -9,3 +9,4 @@ ___
 ![GPS 1.1 Screenshot](https://github.com/Dimesky/phase-0-gps-1/blob/master/gps_screenshot.png)
 
 >master line changes
+
