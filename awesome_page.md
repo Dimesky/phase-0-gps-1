@@ -7,3 +7,5 @@ ___
 [Google](www.google.com)
 
 ![GPS 1.1 Screenshot](https://github.com/Dimesky/phase-0-gps-1/blob/master/gps_screenshot.png)
+
+**bunch of random text in new branch**
